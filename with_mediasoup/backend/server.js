@@ -55,6 +55,9 @@ async function run() {
 
 async function runMediasoupWorkers() {
     const { numWorkers } = config.mediasoup;
-
     logger.info('running %d mediasoup Workers...', numWorkers);
+
+
+
+
 }
